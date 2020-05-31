@@ -23,5 +23,4 @@ function exampleAPICall() {
 			alert(JSON.stringify(json_file));
 		}
 	}
-	
 }
